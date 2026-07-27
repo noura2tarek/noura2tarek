@@ -37,11 +37,11 @@
 I'm **Noura Tarek** from **Egypt 🇪🇬**
 
 - 💙 Flutter Mobile Application Developer
-- 📱 2+ years of experience developing cross-platform mobile applications
-- 🏗️ Passionate about writing clean, scalable, and maintainable code
-- 🔥 Experienced with Clean Architecture, BLoC/Cubit/GetX, Firebase, SOLID Principles, REST APIs, and Local Storage
-- 📚 Currently improving my Software Architecture and Problem Solving skills
-- ⚡ In my free time, I enjoy reading books and watching stories
+- 📱 2+ years of experience developing cross-platform mobile applications.
+- 🏗️ Focused on writing clean, scalable, and maintainable code.
+- 🔥 Experienced with Clean Architecture, BLoC/Cubit, GetX, Firebase, SOLID Principles, REST APIs, and Local Storage.
+- 📚 Currently improving my Software Architecture and Problem Solving skills.
+- ⚡ In my free time, I enjoy reading books and watching stories.
 
 ---
 
@@ -89,25 +89,34 @@ I'm **Noura Tarek** from **Egypt 🇪🇬**
 
 ## 💡 Skills
 
-- Flutter
-- Dart
-- Firebase
-- REST APIs
-- BLoC / Cubit / GetX
+### 📱 Mobile Development
+- Flutter & Dart
+- Responsive UI
+- Localization
+- Push Notifications & Local Notifications
+- Google Maps Integration
+
+### 🏗️ Architecture & State Management
 - Clean Architecture
+- MVVM Architecture
+- BLoC / Cubit / GetX
+- SOLID Principles
+
+### 🔥 Backend & Integration
+- REST APIs
+- Firebase Services
+- Authentication
+- Payment Integration
+- Multipart Requests
+
+### 💾 Database & Storage
 - Hive
 - SQLite
 - SQL
+
+### 🛠 Tools & Others
 - Git & GitHub
-- Responsive UI
-- Localization
-- SOLID Principles
-- Push Notifications & Local notification
-- Google Maps Integration
-- Authentication
-- Payment Integration
-- Error handling
-- Multi part request
+- Problem Solving
 ---
 
 ## 🚀 Featured Projects
@@ -121,7 +130,6 @@ A comprehensive beauty salon application that allows users to explore clinics, b
 - 🛒 Shopping cart and service packages
 - 🎥 Promotional reels for clinic advertisements
 - 🔔 Push notifications (FCM + Flutter Local Notifications)
-- ⚙️ Firebase Remote Config for Base URL & App Version
 
 **Tech Stack:**   Flutter • Firebase • Firebase Cloud Messaging • Local Notifications • Firebase Remote Config • REST APIs • BLoC/Cubit • Clean Architecture • MVVM Arch
 
@@ -159,7 +167,7 @@ A customer service and maintenance management application that enables users to 
 - 🌐 REST API integration
 - 📱 Responsive UI with GetX state management
 
-**Tech Stack:** Flutter • REST APIs • GetX • MVC Architecture 
+**Tech Stack:** Flutter • REST APIs • GetX • MVC Architecture • Page Transition Animation
 
 ---
 
@@ -175,18 +183,6 @@ A tourism application that helps users explore famous attractions, museums, and 
 A social media application that enables users to create and share posts with images and videos. Media files are uploaded and stored using Firebase Storage, while Firebase Firestore manages post data in real time. The application is built with Clean Architecture and BLoC for scalable and maintainable state management.
 
 **Tech Stack:** Flutter • Firebase Authentication • Cloud Firestore • Firebase Storage • BLoC/Cubit • Clean Architecture
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=noura2tarek&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noura2tarek&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
