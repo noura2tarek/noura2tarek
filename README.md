@@ -144,16 +144,25 @@ A Flutter-based university application designed to simplify student schedule man
 - 📱 QR code-based lecture attendance
 - 🔄 In-app update prompts using Firebase Remote Config
 - 🔐 Secure authentication and user management
-- 
+
 **Tech Stack:** Flutter • Face Recognition • QR Scanner • Geolocator • REST APIs • BLoC/Cubit • Clean Architecture
   
 ---
 
-### 📍 CheckMate
+## 📍 CheckMate
 
-Attendance system using Geolocation and Geofencing to allow users to check in only when they are near the designated location.
+A smart attendance management system that enables employees to record their check-in and check-out using Geolocation and Geofencing. The application ensures that attendance actions are only available when employees are within the designated workplace location.
 
-**Tech Stack:** Flutter • Firebase • Google Maps • Geolocator • BlOC • MVVM Arch
+### Key Features
+
+- 📍 Location-based attendance verification
+- 🟢 Employee check-in and check-out tracking
+- 🗺️ Geolocation and Geofencing integration
+- 📊 Attendance records management
+- 🔐 Admin Panel and user management
+
+**Tech Stack:**  
+Flutter • Firebase • Google Maps • Geolocator • BLoC/Cubit • Clean Architecture
 
 ---
 ### 🏢 CSM App
@@ -163,7 +172,6 @@ A customer service and maintenance management application that enables users to 
 **Key Features**
 - 🛠️ Submit and manage maintenance requests
 - 📋 Track request status and history
-- 🔐 Secure authentication
 - 🌐 REST API integration
 - 📱 Responsive UI with GetX state management
 
@@ -171,10 +179,20 @@ A customer service and maintenance management application that enables users to 
 
 ---
 
-### 📍 Egypt Tourist Guide
-A tourism application that helps users explore famous attractions, museums, and landmarks across Egypt. includes localication and (light, dark) themes.
+## 📍 Egypt Tourist Guide
 
-**Tech Stack:** Flutter • Firebase • BLoC • Clean Architecture • Localization
+A tourism application that helps users explore famous attractions, museums, and historical landmarks across Egypt. The app provides a smooth user experience with localization support and light/dark themes.
+
+### Key Features
+
+- 🏛️ Explore Egyptian attractions and landmarks
+- 🌐 Multi-language support
+- 🌙 Light & Dark themes
+- 📱 Responsive UI
+- 🔥 Firebase integration
+
+**Tech Stack:**  
+Flutter • Firebase • BLoC/Cubit • Google Maps • Clean Architecture • Localization
 
 ---
 
