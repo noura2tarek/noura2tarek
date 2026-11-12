@@ -131,7 +131,37 @@ A comprehensive beauty salon application that allows users to explore clinics, b
 - 🎥 Promotional reels for clinic advertisements
 - 🔔 Push notifications (FCM + Flutter Local Notifications)
 
-**Tech Stack:**   Flutter • Firebase • Firebase Cloud Messaging • Local Notifications • Firebase Remote Config • REST APIs • BLoC/Cubit • Clean Architecture • MVVM Arch
+**Tech Stack:**   Flutter • Firebase • MVVM Architecture • Firebase Cloud Messaging • Local Notifications • Firebase Remote Config • REST APIs • BLoC/Cubit.
+
+---
+### 🚗 Parkly – Smart Parking & Reservation Platform
+
+A smart parking platform designed to simplify finding and reserving parking spaces. It allows drivers to discover nearby and recommended parking locations, compare parking options, and manage their reservations. The platform consists of a Driver Mobile Application, Parking Owner Dashboard, and Admin Dashboard.
+
+**Key Features**
+- 📍 Discover nearby and recommended parking locations
+- 🔎 Search and filter parking by price, distance, vehicle requirements, and amenities
+- 🅿️ View parking details, availability, and facilities
+- 📅 Reserve parking spots and manage bookings
+- 🎟️ QR-based check-in and check-out
+- ⏱️ Track active parking sessions
+- 🔔 Receive reminders before parking sessions expire
+- ⭐ Rate and review parking locations
+
+**Tech Stack:** Flutter • Dart • Clean Architecture • BLoC/Cubit • GetIt • FCM • Hive • DeepLinking • OpenStreetMap • REST APIs • Retrofit.
+
+---
+### 🛍️ FastLink Partner – Vendor Store App
+
+A vendor management application that enables store owners to manage their online business, handle customer orders, and maintain product and category listings. The app provides tools for tracking order statuses and managing store information.
+
+**Key Features**
+- 📦 Manage products and categories
+- 🛒 View and manage customer orders
+- 📋 Track and update order statuses
+- ⚙️ Manage vendor store settings
+
+**Tech Stack:** Flutter • Dart • REST APIs • FCM • BLoC/Cubit • MVVM Architecture.
 
 ---
 ### 🎓 Mohadraty-S
@@ -145,11 +175,11 @@ A Flutter-based university application designed to simplify student schedule man
 - 🔄 In-app update prompts using Firebase Remote Config
 - 🔐 Secure authentication and user management
 
-**Tech Stack:** Flutter • Face Recognition • QR Scanner • Geolocator • REST APIs • BLoC/Cubit • Clean Architecture
+**Tech Stack:** Flutter • Face Recognition using Google mlkit face detection • QR Scanner • Geolocator • REST APIs • BLoC/Cubit • Clean Architecture
   
 ---
 
-## 📍 CheckMate
+### 📍 CheckMate
 
 A smart attendance management system that enables employees to record their check-in and check-out using Geolocation and Geofencing. The application ensures that attendance actions are only available when employees are within the designated workplace location.
 
@@ -175,11 +205,11 @@ A customer service and maintenance management application that enables users to 
 - 🌐 REST API integration
 - 📱 Responsive UI with GetX state management
 
-**Tech Stack:** Flutter • REST APIs • GetX • MVC Architecture • Page Transition Animation
+**Tech Stack:** Flutter • REST APIs • GetX • MVC Architecture • Page Transition Animation • File & Image attachments using multipart request.
 
 ---
 
-## 📍 Egypt Tourist Guide
+### 📍 Egypt Tourist Guide
 
 A tourism application that helps users explore famous attractions, museums, and historical landmarks across Egypt. The app provides a smooth user experience with localization support and light/dark themes.
 
